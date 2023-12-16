@@ -1,6 +1,6 @@
 ### My name is Aleksandr Sharikhin
 
-'m doing software engineering for living(currently using Rust mostly) but this GitHub profile contains mostly my hobby projects for retrocomputers.
+I'm doing software engineering for living(currently using Rust mostly) but this GitHub profile contains mostly my hobby projects for retrocomputers.
 
 Here will be some guide for some my repos. 
 
