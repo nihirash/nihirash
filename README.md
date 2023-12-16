@@ -33,7 +33,7 @@ Also I did some experiments for creating new firmware for ESP8266 for using it a
  - [Rokky](https://github.com/nihirash/Agon-rokky) simple Rock's'Diamonds game for Agon Light. I'm using it like test site for Agon Development. 
  - Daddy of prev. game - [Rocks And Ghosts](https://github.com/nihirash/rocksnghosts) for Jupiter Ace(with 16k ram pack). Once I've let that every platform should have Boulder Dash like game. So I did it for Jupiter Ace
  - [Lost Donation Box Incident](https://github.com/nihirash/touhou-zero) pseudo-Bullet Hell game for ZX-Evolution with TSConf firmware. Game can be downloaded [here](https://nihirash.itch.io/lost-donation-box-incident)(also here's video with game play). There's version with emulator for Windows. Emulator works fine under Wine.
-- [Sinty Snoki](https://github.com/nihirash/Ssssnaaakkeee) is proof-of-concept game. It's a snake game that uses MIDI out of ZX Spectrum 128 for playing background music. 
+- [Sinty Snoki](https://github.com/nihirash/Ssssnaaakkeee) is proof-of-concept game. It's a snake game that uses MIDI out of ZX Spectrum 128 for playing background music. For screenshots and downloadable version check [itch.io page of game](https://nihirash.itch.io/zx-spectrum-sinty-snoke)
 
 #### Other still usable retrocomputer's stuff
 
