@@ -6,7 +6,8 @@ Here will be some guide for some my repos.
 
 #### CP/M related stuff
 
- - For [Agon Light](https://www.thebyteattic.com/p/agon.html) computer is located [here](https://github.com/nihirash/Agon-CPM2.2)
+ - [ZINC is Not CP/M](https://github.com/nihirash/zinc) - CP/M compat layer for Agon's MOS
+ - CP/M 2.2 port for [Agon Light](https://www.thebyteattic.com/p/agon.html) computer is located [here](https://github.com/nihirash/Agon-CPM2.2)
  - For ZXUno and Spectrum +3 with divMMC and +3e firmware is [here](https://github.com/nihirash/cpm-uno). Initially, it was only for ZXUno but now it have possiblity to be built with classic ZX Spectrum screen driver
  - For [Karabas Pro](http://github.com/andykarpov/karabas-pro) ZX Spectrum compatible computer located is [here](https://github.com/nihirash/karabas-pro-cpm). Most funny fact about it - it have CI on Github Actions for creating public releases.
   - Very quick and dirty made [file manager for CP/M](https://github.com/nihirash/cpm-fm). It should be compiled with BDS C and can work on almost any CP/M machine(uses only 8080 mnemonics)
