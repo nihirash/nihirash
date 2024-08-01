@@ -25,7 +25,7 @@ And main entry point for this code was my [zx-net-tools](https://github.com/nihi
  
 I did tool for remote loading code to ZX Spectrum compatible computers - [Lain](https://github.com/nihirash/Lain). You can use it for real hardware checks when you making cross-platform development. 
 
-For Agon Light I did [Snail Gopher browser](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail). It's still experimental software but you can use it, explore internals and develop some new stuff using it
+For Agon Light I did [Snail Gopher browser](https://github.com/nihirash/agon-snail). It's still experimental software but you can use it, explore internals and develop some new stuff using it
 
 Also I did some experiments for creating new firmware for ESP8266 for using it as offload tcp/ip stack. [This version](https://github.com/nihirash/esp-binary-firmware) was used in MSX's BadCat Wifi cart.
 
