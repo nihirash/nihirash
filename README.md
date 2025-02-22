@@ -4,6 +4,10 @@ I'm doing software engineering for living(currently using Rust mostly) but this 
 
 Here will be some guide for some my repos. 
 
+#### Development
+
+- [BSimple](https://github.com/nihirash/bsimple-ez80-compiler) compiler. B-like programming language and compiler that fits into 24K binary on eZ80. Targetting to eZ80(mostly for Agon Light/Console8 but can be used for any eZ80 CPU in ADL mode). Working on desktop computers(mac, linux; windows should work too but untested cause I have no access to Windows) as well as on Agon Light2 directly. Compiles to assembly and can be mixed with almost any assembly code
+
 #### CP/M related stuff
 
  - [ZINC is Not CP/M](https://github.com/nihirash/zinc) - CP/M compat layer for Agon's MOS
